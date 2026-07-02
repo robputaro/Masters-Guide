@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://masterclass.astraculture.com",
+      "permanent": true
+    }
+  ]
+}
